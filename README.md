@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nandikaka
 - 👀 I’m interested in web development and coding (C++ and Python 💻🐍)
-- 🌱 I’m currently learning the art of automatio
+- 🌱 I’m currently learning the art of automation
 - 📫 How to reach me: @szilveszter_nandor
